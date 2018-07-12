@@ -12,4 +12,4 @@
 
 ### 2xxx / Game Altering Bugs:
 
-#### 3xxx / Serious Bugs:
+### 3xxx / Serious Bugs:
